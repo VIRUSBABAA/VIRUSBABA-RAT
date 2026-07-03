@@ -102,11 +102,11 @@ Installation
 
 Login Screen          | Main Dashboard
 -|
-[Login](Screenshots/login.png) | [Dashboard](screenshots/dashboard.png)
+[Login](Screenshots/login.png) | [Dashboard](Screenshots/dashboard.png)
 
 Payload Builder       | Send File
 -|
-[Builder](screenshots/builder.png) | [File Transfer](screenshots/file_transfer.png)
+[Builder](Screenshots/builder.png) | [File Transfer](Screenshots/file_transfer.png)
 
 
 🏗️ Project Structure
