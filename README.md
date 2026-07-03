@@ -51,7 +51,7 @@ Prerequisites
 Installation
 
 1. Clone the repository
-   git clone https://github.com/yourusername/VIRUSBABA-RAT.git
+   git clone https://github.com/VIRUSBABA/VIRUSBABA-RAT.git
    cd VIRUSBABA-RAT
 
 2. Install Python dependencies
