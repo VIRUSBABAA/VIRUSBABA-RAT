@@ -112,12 +112,12 @@ Payload Builder       | Send File
 🏗️ Project Structure
 
 VIRUSBABA-RAT/
-├── controller.py          # Main GUI (PyQt6)
-├── payload_stub.py        # Victim agent (telemetry + file receiver)
-├── build_me.bat           # One-click build script
-├── embed_payload.py       # Embeds payload into controller
-├── requirements.txt       # Python dependencies
-└── dist/                  # Built EXE files (after compiling)
+├── controller.py # Main GUI (PyQt6)
+├── payload_stub.py # Victim agent (telemetry + file receiver)
+├── build_me.bat # One-click build script
+├── embed_payload.py # Embeds payload into controller
+├── requirements.txt # Python dependencies
+└── dist/ # Built EXE files (after compiling)
 
 
 🔧 Troubleshooting
