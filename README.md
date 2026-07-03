@@ -102,7 +102,7 @@ Installation
 
 Login Screen          | Main Dashboard
 -|
-[Login](screenshots/login.png) | [Dashboard](screenshots/dashboard.png)
+[Login](Screenshots/login.png) | [Dashboard](screenshots/dashboard.png)
 
 Payload Builder       | Send File
 -|
