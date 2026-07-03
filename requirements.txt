@@ -1,0 +1,17 @@
+# Core GUI Framework
+PyQt6>=6.5.0
+
+# Firebase Backend
+firebase-admin>=6.4.0
+
+# System & Hardware Info (CPU, RAM, Disk, Battery)
+psutil>=5.9.0
+
+# HTTP Requests (for File Transfers & IP Lookup)
+requests>=2.31.0
+
+# Windows API (for Active Window & Registry)
+pywin32>=306
+
+# Build Tool (to compile the project into EXEs)
+pyinstaller>=6.0.0
