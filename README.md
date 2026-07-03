@@ -106,7 +106,7 @@ Login Screen          | Main Dashboard
 
 Payload Builder       | Send File
 -|
-[Builder](Screenshots/builder.png) | [File Transfer](Screenshots/file_transfer.png)
+[Builder](Screenshots/builder.png) | [Contact](Screenshots/contact.png)
 
 
 🏗️ Project Structure
